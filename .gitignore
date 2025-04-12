@@ -1,0 +1,9 @@
+.pio/
+.vscode/
+*.pyc
+*.log
+*.DS_Store
+*.swp
+*.bak
+*.zip
+*.tar.gz
